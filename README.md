@@ -8,3 +8,7 @@ css simple drainw
 
 cf.border-radius generator
 https://9elements.github.io/fancy-border-radius/
+
+Rachel Andrew - Unlocking the Power of CSS Grid Layout
+で youtube
+
